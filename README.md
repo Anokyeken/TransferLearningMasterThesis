@@ -1,1 +1,1 @@
-#﻿## TransferLearningmasterThesis 
+# Impleamentation of Transfer Learning to detect cassava Disease
